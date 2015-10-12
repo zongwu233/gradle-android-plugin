@@ -1,0 +1,1 @@
+See the main readme on the GitHub site: https://github.com/jvoegele/gradle-android-plugin/#readme

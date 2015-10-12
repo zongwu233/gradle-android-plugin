@@ -1,0 +1,1 @@
+Wiki is on GitHub: https://github.com/jvoegele/gradle-android-plugin/wiki

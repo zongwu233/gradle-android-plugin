@@ -1,0 +1,1 @@
+We are using GitHub to manage our issues: https://github.com/jvoegele/gradle-android-plugin/issues
